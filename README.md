@@ -1,6 +1,6 @@
 # Shark-Attack-Analysis
 
-![](IMG_20250630_110810)
+![](IMG_20250630_110810.png)
 
 ## Introduction
 
@@ -38,7 +38,7 @@ As at current, the exact figure, areas and locations of attacks are still unknow
 
 ## Visualization
 
-![](IMG_20250630_110753)
+![](IMG_20250630_110753.png)
 
 ## Analysis (Insight)
 
