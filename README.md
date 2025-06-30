@@ -38,7 +38,7 @@ As at current, the exact figure, areas and locations of attacks are still unknow
 
 ## Visualization
 
-![](SHA.png)
+![](sha.png)
 
 ## Analysis (Insight)
 
