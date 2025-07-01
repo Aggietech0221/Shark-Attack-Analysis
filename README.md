@@ -2,6 +2,23 @@
 
 ![](IMG_20250630_110810.png)
 
+## Table of Content
+- Introduction 
+
+- Data Overview
+
+- Problem Statement
+
+- key Metrics
+
+- Skills Demonstrated
+
+- Visualization 
+
+- Analysis 
+
+- Conclusion and Recommendation
+
 ## Introduction
 
 Over the years, there has been numbers of shark attack on humans, both provoked and unprovoked cases in different countries especially U.S has been documented. According to the international shark attack report, the exact figure for the past 100 years is unknown but a significant number of shark attack has been reported in the U.S. This report analyses insights drawn from both provoked and unprovoked cases of shark attacks on humans in 133 different countries in 193 years.
